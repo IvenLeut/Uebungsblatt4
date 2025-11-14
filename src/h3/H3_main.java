@@ -8,7 +8,7 @@ public class H3_main {
 		double fahrenheitDouble = 123.2;
 		fahrenheitFloat = celsiusFloat * (9f/5f) + 32f;
 		fahrenheitDouble = celsiusDouble * (9d/5d) + 32d;
-		System.out.println(fahrenheitFloat);
-		System.out.println(fahrenheitDouble);
+		//System.out.println(fahrenheitFloat);
+		//System.out.println(fahrenheitDouble);
 	}
 }

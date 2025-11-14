@@ -18,10 +18,10 @@ public class H2_main {
 		a = (x && y);
 		b = (x || x != y);
 		c= !y;
-		System.out.println("x =" + x);
-		System.out.println("y =" + y);
-		System.out.println("a =" + a);
-		System.out.println("b =" + b);
-		System.out.println("c =" + c);
+		//System.out.println("x =" + x);
+		//System.out.println("y =" + y);
+		//System.out.println("a =" + a);
+		//System.out.println("b =" + b);
+		//System.out.println("c =" + c);
 	}
 }
